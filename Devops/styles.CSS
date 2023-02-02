@@ -1,0 +1,42 @@
+body {
+    background-color: #393E46;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    text-align: center;
+    color: #4ECCA3;
+  }
+  .container {
+    padding-top: 10%;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .dice {
+    text-align: center;
+    display: inline-block;
+  
+  }
+  .btn{
+    margin-top: 5%;
+  }
+
+  
+  p {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+  }
+  
+  img {
+    width: 80%;
+  }
+  
+  footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+  
+  }
+  
