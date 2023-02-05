@@ -17,7 +17,7 @@ pageEncoding="ISO-8859-1"%>
 </head>
 <body>
 <div class="container">
-    <h1>Devops!</h1>
+    <h1>Roll The Dice!</h1>
 
     <div class="dice">
       <p>Cube 1</p>
